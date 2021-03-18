@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Devmo</string>
+    <string name="forum">Forum</string>
+    <string name="text">text</string>
+    <string name="filters">Filters</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+</resources>
